@@ -1,1 +1,2 @@
 #mcode to create EC2
+# type is t2.xlarge
